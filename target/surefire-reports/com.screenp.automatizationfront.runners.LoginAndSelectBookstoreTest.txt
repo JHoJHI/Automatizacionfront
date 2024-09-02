@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: com.screenp.automatizationfront.runners.LoginAndSelectBookstoreTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 56.751 s <<< FAILURE! - in com.screenp.automatizationfront.runners.LoginAndSelectBookstoreTest
+com.screenp.automatizationfront.runners.LoginAndSelectBookstoreTest.shouldBeAbleToLoginAndSelectBookstore  Time elapsed: 54.739 s  <<< ERROR!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable
+  (Session info: chrome=128.0.6613.114)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6O5CQCD2', ip: '169.254.1.76', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.114, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\crist\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56870}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a7098180b48ab7e8b83b6eafae003a77
+	at com.screenp.automatizationfront.runners.LoginAndSelectBookstoreTest.shouldBeAbleToLoginAndSelectBookstore(LoginAndSelectBookstoreTest.java:48)
+

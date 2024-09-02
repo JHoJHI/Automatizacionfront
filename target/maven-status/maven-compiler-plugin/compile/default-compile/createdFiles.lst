@@ -1,0 +1,5 @@
+com\screenp\automatizationfront\tasks\LoginAndSelectBookstore.class
+com\screenp\automatizationfront\tasks\RegisterNewUser.class
+com\screenp\automatizationfront\AutomatizationFront.class
+com\screenp\automatizationfront\tasks\OpenTheApplication.class
+com\screenp\automatizationfront\utils\ExcelReader.class
